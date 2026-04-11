@@ -142,3 +142,5 @@ MSSV: K235480106070
 <img width="1920" height="1080" alt="Screenshot 2026-04-11 223808" src="https://github.com/user-attachments/assets/2b131b26-ee1c-4cd6-b4df-cbdb21c7e14c" />
 
 17. upload file **dulieu.sql** lên github repository của em (repository mà em đang edit file README.md)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4366577-1e0f-49a6-9e4f-61e47a175fee" />
+
