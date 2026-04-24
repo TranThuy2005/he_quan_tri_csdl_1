@@ -1,6 +1,6 @@
-# Họ tên: Trần thị Thùy
-# MSSV: K235480106070
-# Lớp K59KMT.K01
+### Họ tên: Trần Thị Thùy
+### MSSV: K235480106070
+### Lớp K59KMT.K01
 Phần mở đầu: Thông tin cá nhân, yêu cầu đầu bài, giới thiệu sơ qua về cách làm.
 
 Phần 1: Khởi tạo bảng
