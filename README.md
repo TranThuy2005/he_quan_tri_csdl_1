@@ -2,6 +2,7 @@
 ### MSSV: K235480106070
 ### Lớp K59KMT.K01
 
+# Bài tập số 2
 # Bài làm
 ### Phần 1: Thiết kế và Khởi tạo Cấu trúc Dữ liệu
 - Tạo database QuanLyKhachSan
